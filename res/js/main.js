@@ -1,3 +1,7 @@
+import { Character } from "./characters/Character.js";
+
+
+
 const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
 
